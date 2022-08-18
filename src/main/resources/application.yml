@@ -1,0 +1,21 @@
+# anotação para expecificar a porta-> server.port:
+
+spring:
+ datasource:
+   url: jdbc:postgresql://localhost:5432/academia?useTimezone=true&serverTimezone=UTC&useLegacyDate
+   username: luiz
+   password: wlCreme
+ jpa:
+   show-sql: true
+   hibernate:
+     ddl-auto: update  
+ properties:
+   hibernate.format_sql: true
+
+#adiciona log na aplicação   
+ logging:
+   level:
+     org:
+       hibernate:
+         type: trace
+  
