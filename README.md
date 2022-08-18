@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <h1>Conhecendo o Projeto Spring Data JPA na Prática </h1>
 <p> Sejam bem-vindos ao projeto de LAB <strong>Conhecendo o Projeto Spring Data JPA na Prática</strong> oferecido gratuitamente pela plataforma de cursos online <a href="https://dio.me/"><strong> Digital Innovation One</strong></a>.<br>
 
@@ -99,3 +100,7 @@ Disponibilizado com ♥ por [cami-la](https://www.linkedin.com/in/cami-la/ "cami
 
 
 
+=======
+# projeto-academia-digital
+Projeto de uma Academia Digital
+>>>>>>> 9cb1257cf0c70c8bf8c7ffc38c8c81d555417ded
